@@ -25,7 +25,8 @@ This repository lists every Samsung SYSTEM app that has secret features/labs and
 | [Find My Mobile](https://galaxystore.samsung.com/prepost/000004700911) | com.samsung.android.fmm | ⚠️ In Progress |
 | [Samsung Find](https://galaxystore.samsung.com/prepost/000007282521) | com.samsung.android.app.find | ❌ Unavailable |
 | Galaxy Store | com.sec.android.app.samsungapps | ❌ Unavailable |
-| [Gallery](https://galaxystore.samsung.com/prepost/000007860293) | com.sec.android.gallery3d | ❌ Unavailable |
+| [Gallery](https://galaxystore.samsung.com/prepost/000007860293) | com.sec.android.gallery3d | ≡ Menu >> Settings >> About Gallery >> Tap Gallery multiple times until Labs in enabled. |
 | Settings | com.android.settings | ⚠️ In Progress |
-| [My Files](https://galaxystore.samsung.com/detail/com.sec.android.app.myfiles) | com.sec.android.app.myfiles | ⚠️ In Progress |
+| [My Files](https://galaxystore.samsung.com/detail/com.sec.android.app.myfiles) | com.sec.android.app.myfiles | ⋮ Menu >> Settings >> About My Files >> Tap My Files multiple times until MyFiles Labs is enabled. |
 | Smart View | com.samsung.android.smartmirroring | ❌ Unavailable |
+| Health |
