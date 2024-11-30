@@ -11,6 +11,7 @@ This repository lists every Samsung SYSTEM app that has secret features/labs and
 | AR Emoji | com.samsung.android.aremoji | ❌ Unavailable |
 | [AR Emoji Editor](https://galaxystore.samsung.com/prepost/000005360278) | com.samsung.android.aremojieditor | ❌ Unavailable |
 | [ARZone](https://galaxystore.samsung.com/prepost/000005227810) | com.samsung.android.arzone | ❌ Unavailable |
+| Bixby Voice | com.samsung.android.bixby.agent | On Home Screen, hold down on Bixby >> Bixby Settings >> About Bixby >> Tap Version Number until Developer options is enabled. |
 | [Bixby Vision](https://galaxystore.samsung.com/prepost/000005897119) | com.samsung.android.visionintelligence | ❌ Unavailable |
 | [Calculator](https://galaxystore.samsung.com/prepost/000005423481) | com.sec.android.app.popupcalculator | Type (+30,012,012,732+ |
 | [Calendar](https://galaxystore.samsung.com/prepost/000006456935) | com.samsung.android.calendar | ≡ Menu >> Settings >> Labs |
