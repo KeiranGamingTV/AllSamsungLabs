@@ -20,8 +20,8 @@ This repository lists every Samsung SYSTEM app that has secret features/labs and
 | [Find My Mobile](https://galaxystore.samsung.com/prepost/000004700911) | com.samsung.android.fmm | System Settings >> Apps >> Samsung app settings >> Find My Mobile >> ⋮ Menu >> About Find My Mobile >> Tap Find My Mobile 9 Times >> Enter "PASSWORD UNAVAILABLE" >> Press OK |
 | Galaxy Store | com.sec.android.app.samsungapps | ❌ Unavailable |
 | [Gallery](https://galaxystore.samsung.com/prepost/000007860293) | com.sec.android.gallery3d | ≡ Menu >> Settings >> About Gallery >> Tap Gallery multiple times until Labs in enabled. |
-| Health | com.sec.android.app.shealth | ⋮ Menu >> Settings >> About Samsung Health >> Tap Samsung Health multiple times. Keep clicking after Send log report appears. >> Developer mode (new) >> ON |
-| Internet | com.sec.android.apps.sbrowser | ≡ Menu >> Settings >> Labs |
+| [Health](https://galaxystore.samsung.com/prepost/000003059550) | com.sec.android.app.shealth | ⋮ Menu >> Settings >> About Samsung Health >> Tap Samsung Health multiple times. Keep clicking after Send log report appears. >> Developer mode (new) >> ON |
+| [Internet](https://galaxystore.samsung.com/prepost/000005046627) | com.sec.android.apps.sbrowser | ≡ Menu >> Settings >> Labs |
 | Modes and Routines | N/A | ⋮ Menu >> Settings >> About Modes and Routines >> Tap Modes and Routines multiple times until prompted for a debug mode password. >> Enter "PASSWORD UNAVAILABLE" |
 | [My Files](https://galaxystore.samsung.com/detail/com.sec.android.app.myfiles) | com.sec.android.app.myfiles | ⋮ Menu >> Settings >> About My Files >> Tap My Files multiple times until MyFiles Labs is enabled. |
 | [Quick Share](https://galaxystore.samsung.com/detail/com.samsung.android.app.sharelive) | com.samsung.android.app.sharelive | About Quick Share >> Tap Quick Share multiple times until prompted for a debug mode password. >> Enter "PASSWORD UNAVAILABLE" |
