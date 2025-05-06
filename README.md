@@ -31,5 +31,5 @@ This repository lists every Samsung SYSTEM app that has secret features/labs and
 | [Samsung Find](https://galaxystore.samsung.com/prepost/000007282521) | com.samsung.android.app.find | ❌ Unavailable |
 | [Secure Folder](https://galaxystore.samsung.com/prepost/000006837918) | com.samsung.knox.securefolder | ❌ Unavailable |
 | Settings | com.android.settings | About phone >> Software information >> Tap Build number multiple times until Developer mode is enabled. |
-| [SmartThings](https://galaxystore.samsung.com/prepost/000004262296) | com.samsung.android.beaconmanager | ❌ Unavailable |
-| Smart View | com.samsung.android.smartmirroring | ❌ Unavailable |
+| [SmartThings](https://galaxystore.samsung.com/prepost/000004262296) | com.samsung.android.beaconmanager | ≡ Menu >> Settings >> About SmartThings >> Tap SmartThings 10 times >> Enable Test Mode >> Enter "PASSWORD UNAVAILABLE" |
+| Smart View | com.samsung.android.smartmirroring | ❌ Unavailable | 
