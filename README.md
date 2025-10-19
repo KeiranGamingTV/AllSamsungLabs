@@ -18,7 +18,7 @@ This repository lists every Samsung SYSTEM app that has secret features/labs and
 | [Clock](https://galaxystore.samsung.com/detail/com.sec.android.app.clockpackage) | com.sec.android.app.clockpackage | ❌ Unavailable/⚠️ In Progress |
 | [Device Care](https://galaxystore.samsung.com/detail/com.samsung.android.lool) | com.samsung.android.lool | ❌ Unavailable/⚠️ In Progress |
 | [Find My Mobile](https://galaxystore.samsung.com/prepost/000004700911) | com.samsung.android.fmm | System Settings >> Apps >> Samsung app settings >> Find My Mobile >> ⋮ Menu >> About Find My Mobile >> Tap Find My Mobile 9 Times >> Enter "PASSWORD UNAVAILABLE" >> Press OK |
-| Galaxy Store | com.sec.android.app.samsungapps | ❌ Unavailable |
+| Galaxy Store | com.sec.android.app.samsungapps | Menu >> Settings >> About Galaxy Store >> Tap Version Number multiple times >> For the password, it is the package name (samsungapps) + the version code. For example, samsungapps + 7.20.3 = "samsungapps7.20.3" <<>> ALTERNATIVE >> Open "com.samsung.android.mas.internal.ui.DevSettingsPage" through an Activity Launcher >> Enter password from main method. |
 | [Gallery](https://galaxystore.samsung.com/prepost/000007860293) | com.sec.android.gallery3d | ≡ Menu >> Settings >> About Gallery >> Tap Gallery multiple times until Labs in enabled. |
 | [Health](https://galaxystore.samsung.com/prepost/000003059550) | com.sec.android.app.shealth | ⋮ Menu >> Settings >> About Samsung Health >> Tap Samsung Health multiple times. Keep clicking after Send log report appears. >> Developer mode (new) >> ON |
 | [Internet](https://galaxystore.samsung.com/prepost/000005046627) | com.sec.android.apps.sbrowser | ≡ Menu >> Settings >> Labs |
