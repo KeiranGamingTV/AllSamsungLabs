@@ -24,7 +24,7 @@ This repository lists every Samsung SYSTEM app that has secret features/labs and
 | [Internet](https://galaxystore.samsung.com/prepost/000005046627) | com.sec.android.apps.sbrowser | ≡ Menu >> Settings >> Labs |
 | Modes and Routines | N/A | ⋮ Menu >> Settings >> About Modes and Routines >> Tap Modes and Routines multiple times until prompted for a debug mode password. >> Enter "PASSWORD UNAVAILABLE" |
 | [My Files](https://galaxystore.samsung.com/detail/com.sec.android.app.myfiles) | com.sec.android.app.myfiles | ⋮ Menu >> Settings >> About My Files >> Tap My Files multiple times until MyFiles Labs is enabled. |
-| [Quick Share](https://galaxystore.samsung.com/detail/com.samsung.android.app.sharelive) | com.samsung.android.app.sharelive | About Quick Share >> Tap Quick Share multiple times until prompted for a debug mode password. >> Enter "Q3c2jk$" or (in some versions like One UI 8.5) the current time. <br/> Examples: <br/> 17:34 → 1734 <br/> 01:21 → 121 |
+| [Quick Share](https://galaxystore.samsung.com/detail/com.samsung.android.app.sharelive) | com.samsung.android.app.sharelive | About Quick Share >> Tap Quick Share multiple times until prompted for a debug mode password. >> Enter "Q3c2jk$" or (in some versions like One UI 8.5) the current time in 12-hour format. <br/> Examples: <br/> 17:34 → 534 <br/> 01:21 → 121 |
 | [Reminder](https://galaxystore.samsung.com/prepost/000006417222) | com.samsung.android.app.reminder | ⚠️ In Progress |
 | [Samsung Cloud](https://galaxystore.samsung.com/detail/com.samsung.android.scloud) | com.samsung.android.scloud | ❌ Unavailable |
 | Samsung DeX | com.sec.android.desktopmode.uiservice | ❌ Unavailable |
