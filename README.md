@@ -51,5 +51,12 @@ This repository lists every Samsung SYSTEM app that has secret features/labs and
       </a><br/>
       <sub><b>Quick Share</b></sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/binford-development">
+        <img src="https://avatars.githubusercontent.com/u/162678184?v=4" width="100px;" alt="binford-development"/><br/>
+        <sub><b>binford-development</b></sub>
+      </a><br/>
+      <sub><b>Secure Folder</b></sub>
+    </td>
   </tr>
 </table>
