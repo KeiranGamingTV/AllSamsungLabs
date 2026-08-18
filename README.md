@@ -30,6 +30,7 @@ This repository lists every Samsung SYSTEM app that has secret features/labs and
 | Samsung DeX | com.sec.android.desktopmode.uiservice | ❌ Unavailable |
 | [Samsung Find](https://galaxystore.samsung.com/prepost/000007282521) | com.samsung.android.app.find | ❌ Unavailable |
 | [Secure Folder](https://galaxystore.samsung.com/prepost/000006837918) | com.samsung.knox.securefolder | (OneUi 8.0) Unlock/open Secure Folder >> Tap "Secure Folder" approximately ten times rapidly >> Enter code: "b2b123!" >> Click Check Code |
+| [Samsung News](https://galaxystore.samsung.com/detail/com.samsung.android.app.spage) | com.samsung.android.app.spage | (As for app version 7.6.04.5) Open "com.samsung.android.mas.internal.ui.DevSettingsPage" through an Activity Launcher >> Enter spage8.5.8 |
 | Settings | com.android.settings | About phone >> Software information >> Tap Build number multiple times until Developer mode is enabled. |
 | [SmartThings](https://galaxystore.samsung.com/prepost/000004262296) | com.samsung.android.beaconmanager | ≡ Menu >> Settings >> About SmartThings >> Tap SmartThings 10 times >> Enable Test Mode >> Enter "PASSWORD UNAVAILABLE" |
 | Smart View | com.samsung.android.smartmirroring | ❌ Unavailable | 
@@ -57,6 +58,13 @@ This repository lists every Samsung SYSTEM app that has secret features/labs and
         <sub><b>binford-development</b></sub>
       </a><br/>
       <sub><b>Secure Folder</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PaikLC">
+        <img src="https://avatars.githubusercontent.com/u/115902650?v=4" width="100px" alt="PaikLC"/><br/>
+        <sub><b>PaikLC</b></sub>
+      </a><br/>
+      <sub><b>Samsung News</b></sub>
     </td>
   </tr>
 </table>
