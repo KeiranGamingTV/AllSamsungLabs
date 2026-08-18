@@ -1,6 +1,8 @@
 # AllSamsungLabs
 This repository lists every Samsung SYSTEM app that has secret features/labs and how to access them. If you know how to access apps listed as unavailable, create an issue listing how to access it. Apps with "PASSWORD UNAVAILABLE" are also in need of discovery.
 
+![Alt](https://repobeats.axiom.co/api/embed/6e2f39de38ba634bcf0c2d6e89eaffefce41396d.svg "Repobeats analytics image")
+
 ## ⬇ **APPS ARE STILL CURRENTLY BEING UPDATED!** ⬇
 
 ### List of Apps
