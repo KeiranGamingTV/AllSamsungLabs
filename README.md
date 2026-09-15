@@ -6,7 +6,7 @@
 
 A comprehensive directory listing hidden **Samsung System App Labs**, developer menus, and secret features—along with step-by-step guides to unlock them.
 
-> **💡 Help Wanted:** Know how to access an unavailable app or have a missing password? Please [open an issue](https://github.com/keirangamingtv/allsamsunglabs/issues) or submit a PR!
+> **💡 Help Wanted:** Know how to access an unavailable app or have a missing password? Please [open an issue](https://github.com/keirangamingtv/allsamsunglabs/issues) or [submit a PR](https://github.com/KeiranGamingTV/AllSamsungLabs/pulls)!
 
 ---
 
@@ -17,7 +17,7 @@ A comprehensive directory listing hidden **Samsung System App Labs**, developer 
 
 | App | Package Identifier | Version Tested | Access Method / Password |
 | :--- | :--- | :---: | :--- |
-| **[AR Doodle](https://galaxystore.samsung.com/prepost/000005555018)** | `com.samsung.android.ardrawing` | N/A | ❌ Unavailable |
+| **[AR Doodle](https://galaxystore.samsung.com/prepost/000005555018)** <br /> (BEING DISCONTINUED DEC 31, 2026) | `com.samsung.android.ardrawing` | N/A | ❌ Unavailable |
 | **AR Emoji** | `com.samsung.android.aremoji` | N/A | ❌ Unavailable |
 | **[AR Emoji Editor](https://galaxystore.samsung.com/prepost/000005360278)** | `com.samsung.android.aremojieditor` | N/A | ❌ Unavailable |
 | **[ARZone](https://galaxystore.samsung.com/prepost/000005227810)** | `com.samsung.android.arzone` | N/A | ❌ Unavailable |
@@ -34,6 +34,7 @@ A comprehensive directory listing hidden **Samsung System App Labs**, developer 
 | **[Internet](https://galaxystore.samsung.com/prepost/000005046627)** | `com.sec.android.apps.sbrowser` | One UI 6.1+ | `≡ Menu` → **Settings** → **Labs** |
 | **Modes and Routines** | N/A | One UI 6.1 | `⋮ Menu` → **Settings** → **About Modes and Routines** → Tap title repeatedly → Enter debug password when prompted. |
 | **[My Files](https://galaxystore.samsung.com/detail/com.sec.android.app.myfiles)** | `com.sec.android.app.myfiles` | One UI 6.1 | `⋮ Menu` → **Settings** → **About My Files** → Tap title repeatedly until **MyFiles Labs** is enabled. |
+| **[Quick Measure](https://galaxystore.samsung.com/detail/com.samsung.android.ruler)** <br /> (BEING DISCONTINUED ON DEC 31, 2026) | `com.samsung.android.ruler` | One UI 8.5 | ⚠️ In Progress |
 | **[Quick Share](https://galaxystore.samsung.com/detail/com.samsung.android.app.sharelive)** | `com.samsung.android.app.sharelive` | One UI 7.0+ | **About Quick Share** → Tap title repeatedly.<br/>• **Password:** `Q3c2jk$` or 12-hour format time (e.g., `17:34` → `534`, `01:21` → `121`). |
 | **[Reminder](https://galaxystore.samsung.com/prepost/000006417222)** | `com.samsung.android.app.reminder` | One UI 8.5 | ⚠️ In Progress |
 | **Samsung Capture** | `com.samsung.android.app.smartcapture` | One UI 8.5 | Open **Samsung Capture settings** → **About Samsung Capture** → Tap version number 10 times. |
