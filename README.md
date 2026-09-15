@@ -29,7 +29,7 @@ This repository lists every Samsung SYSTEM app that has secret features/labs and
 | Modes and Routines | N/A | One UI 6.1 | ⋮ Menu >> Settings >> About Modes and Routines >> Tap Modes and Routines multiple times until prompted for a debug mode password. >> Enter "PASSWORD UNAVAILABLE" |
 | [My Files](https://galaxystore.samsung.com/detail/com.sec.android.app.myfiles) | com.sec.android.app.myfiles | One UI 6.1 | ⋮ Menu >> Settings >> About My Files >> Tap My Files multiple times until MyFiles Labs is enabled. |
 | [Quick Share](https://galaxystore.samsung.com/detail/com.samsung.android.app.sharelive) | com.samsung.android.app.sharelive | One UI 7.0+ | About Quick Share >> Tap Quick Share multiple times until prompted for a debug mode password. >> Enter "Q3c2jk$" or (in some versions like One UI 8.5) the current time in 12-hour format. <br/> Examples: <br/> 17:34 → 534 <br/> 01:21 → 121 |
-| [Reminder](https://galaxystore.samsung.com/prepost/000006417222) | com.samsung.android.app.reminder | One UI 6.1 | ⚠️ In Progress |
+| [Reminder](https://galaxystore.samsung.com/prepost/000006417222) | com.samsung.android.app.reminder | One UI 8.5 | ⚠️ In Progress |
 | Samsung Capture | com.samsung.android.app.smartcapture | One UI 8.5 | Open Samsung Capture settings >> Click "About Samsung Capture" >> Click the version number 10 times to open developer menu |
 | [Samsung Cloud](https://galaxystore.samsung.com/detail/com.samsung.android.scloud) | com.samsung.android.scloud | N/A | ❌ Unavailable |
 | Samsung DeX | com.sec.android.desktopmode.uiservice | N/A | ❌ Unavailable |
