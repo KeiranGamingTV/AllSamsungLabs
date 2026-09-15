@@ -43,7 +43,7 @@ A comprehensive directory listing hidden **Samsung System App Labs**, developer 
 | **[Secure Folder](https://galaxystore.samsung.com/prepost/000006837918)** | `com.samsung.knox.securefolder` | One UI 8.0 | Unlock Secure Folder → Tap **Secure Folder** header ~10 times rapidly → Password: `b2b123!` |
 | **[Samsung News](https://galaxystore.samsung.com/detail/com.samsung.android.app.spage)** | `com.samsung.android.app.spage` | One UI 8.5 | Open `com.samsung.android.mas.internal.ui.DevSettingsPage` via Activity Launcher → Password: `spage8.5.8` |
 | **Settings** | `com.android.settings` | Android 4.2+ | **About phone** → **Software information** → Tap **Build number** 7 times. |
-| **[SmartThings](https://galaxystore.samsung.com/prepost/000004262296)** | `com.samsung.android.beaconmanager` | N/A | `≡ Menu` → **Settings** → **About SmartThings** → Tap 10 times → Enable **Test Mode** → Password required. |
+| **[SmartThings](https://galaxystore.samsung.com/prepost/000004262296)** | `com.samsung.android.beaconmanager` | One UI 6.1 | `≡ Menu` → **Settings** → **About SmartThings** → Tap 10 times → Enable **Test Mode** → Password required. |
 | **Smart View** | `com.samsung.android.smartmirroring` | N/A | ❌ Unavailable |
 
 ---
@@ -84,6 +84,7 @@ Special thanks to the contributors helping map out Samsung's hidden menus:
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📈 Activity & Trends
