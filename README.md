@@ -27,7 +27,7 @@ A comprehensive directory listing hidden **Samsung System App Labs**, developer 
 | **[Calendar](https://galaxystore.samsung.com/prepost/000006456935)** | `com.samsung.android.calendar` | One UI 6.1 | `≡ Menu` → **Settings** → **Labs** |
 | **[Clock](https://galaxystore.samsung.com/detail/com.sec.android.app.clockpackage)** | `com.sec.android.app.clockpackage` | N/A | ❌ None |
 | **[Device Care](https://galaxystore.samsung.com/detail/com.samsung.android.lool)** | `com.samsung.android.lool` | N/A | ❌ None |
-| **[Find My Mobile](https://galaxystore.samsung.com/prepost/000004700911)** | `com.samsung.android.fmm` | One UI 6.1 | **System Settings** → **Apps** → **Samsung app settings** → **Find My Mobile** → `⋮ Menu` → **About Find My Mobile** → Tap 9 times → Enter password. ⚠️ Password needs to be found. |
+| **[Find My Mobile](https://galaxystore.samsung.com/prepost/000004700911)** | `com.samsung.android.fmm` | One UI 6.1 | **System Settings** → **Apps** → **Samsung app settings** → **Find My Mobile** → `⋮ Menu` → **About Find My Mobile** → Tap 8 times → Enter `fmm@service` in the password field. |
 | **Galaxy Store** | `com.sec.android.app.samsungapps` | One UI 8.0+ | **Menu** → **Settings** → **About Galaxy Store** → Tap Version Number repeatedly.<br/>• **Password format:** `samsungapps` + version code (e.g., `samsungapps7.20.3`)<br/>• **Alternative:** Open `com.samsung.android.mas.internal.ui.DevSettingsPage` via Activity Launcher. |
 | **[Gallery](https://galaxystore.samsung.com/prepost/000007860293)** | `com.sec.android.gallery3d` | One UI 6.1 | `≡ Menu` → **Settings** → **About Gallery** → Tap Gallery version until **Gallery Labs** is enabled. |
 | **Good Lock** | `com.samsung.android.goodlock` | One UI 8.5 | ⚠️ In Progress |
@@ -56,33 +56,38 @@ Special thanks to the contributors helping map out Samsung's hidden menus:
 
 <table>
   <tr>
+    <!-- Eder_DEV -->
     <td align="center" width="160px">
       <a href="https://github.com/HAX05">
         <img src="https://avatars.githubusercontent.com/u/46104012?v=4" width="80px" style="border-radius: 50%;" alt="Eder_DEV"/><br />
         <sub><b>Eder_DEV</b></sub>
       </a><br />
-      <img src="https://img.shields.io/badge/Galaxy%20Store-007ACC?style=flat-square" alt="Galaxy Store"/>
+      <img src="https://img.shields.io/badge/Galaxy%20Store-D61167?style=flat-square" alt="Galaxy Store"/>
     </td>
+    <!-- LMS -->
     <td align="center" width="160px">
       <a href="https://github.com/blepdoge">
         <img src="https://avatars.githubusercontent.com/u/60255201?v=4" width="80px" style="border-radius: 50%;" alt="LMS"/><br />
         <sub><b>LMS</b></sub>
       </a><br />
       <img src="https://img.shields.io/badge/Quick%20Share-2EA44F?style=flat-square" alt="Quick Share"/>
+      <img src="https://img.shields.io/badge/Find%20My%20Mobile-007ACC?style=flat-square" alt="Find My Mobile"/>
     </td>
+    <!-- binford-development -->
     <td align="center" width="160px">
       <a href="https://github.com/binford-development">
         <img src="https://avatars.githubusercontent.com/u/162678184?v=4" width="80px" style="border-radius: 50%;" alt="binford-development"/><br />
         <sub><b>binford-development</b></sub>
       </a><br />
-      <img src="https://img.shields.io/badge/Secure%20Folder-D93F0B?style=flat-square" alt="Secure Folder"/>
+      <img src="https://img.shields.io/badge/Secure%20Folder-8A2BE2?style=flat-square" alt="Secure Folder"/>
     </td>
+    <!-- PaikLC -->
     <td align="center" width="160px">
       <a href="https://github.com/PaikLC">
         <img src="https://avatars.githubusercontent.com/u/115902650?v=4" width="80px" style="border-radius: 50%;" alt="PaikLC"/><br />
         <sub><b>PaikLC</b></sub>
       </a><br />
-      <img src="https://img.shields.io/badge/Samsung%20News-8A2BE2?style=flat-square" alt="Samsung News"/>
+      <img src="https://img.shields.io/badge/Samsung%20News-D93F0B?style=flat-square" alt="Samsung News"/>
     </td>
   </tr>
 </table>
