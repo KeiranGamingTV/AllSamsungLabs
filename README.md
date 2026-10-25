@@ -33,7 +33,7 @@ A comprehensive directory listing hidden **Samsung System App Labs**, developer 
 | **Good Lock** | `com.samsung.android.goodlock` | One UI 8.5 | ⚠️ In Progress |
 | **[Health](https://galaxystore.samsung.com/prepost/000003059550)** | `com.sec.android.app.shealth` | One UI 6.1 | `⋮ Menu` → **Settings** → **About Samsung Health** → Tap version repeatedly (keep clicking after *Send log report* appears) → Toggle **Developer mode (new)** to **ON**. |
 | **[Internet](https://galaxystore.samsung.com/prepost/000005046627)** | `com.sec.android.apps.sbrowser` | One UI 6.1+ | `≡ Menu` → **Settings** → **Labs** |
-| Modes and Routines | `com.samsung.android.app.routines` | One UI 4.1+ | `⋮ Menu` → **Settings** → **About Modes and Routines** → Tap title repeatedly → Enter debug password: `3281907421`. |
+| **Modes and Routines** | `com.samsung.android.app.routines` | One UI 4.1+ | `⋮ Menu` → **Settings** → **About Modes and Routines** → Tap title repeatedly → Enter debug password: `3281907421`. |
 | **[My Files](https://galaxystore.samsung.com/detail/com.sec.android.app.myfiles)** | `com.sec.android.app.myfiles` | One UI 6.1 | `⋮ Menu` → **Settings** → **About My Files** → Tap title repeatedly until **MyFiles Labs** is enabled. |
 | **[Quick Measure](https://galaxystore.samsung.com/detail/com.samsung.android.ruler)** <br /> (BEING DISCONTINUED ON DEC 31, 2026) | `com.samsung.android.ruler` | One UI 8.5 | ⚠️ In Progress |
 | **[Quick Share](https://galaxystore.samsung.com/detail/com.samsung.android.app.sharelive)** | `com.samsung.android.app.sharelive` | One UI 7.0+ | **About Quick Share** → Tap title repeatedly.<br/>• **Password:** `Q3c2jk$` or 12-hour format time (e.g., `17:34` → `534`, `01:21` → `121`). |
