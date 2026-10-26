@@ -14,6 +14,8 @@ A comprehensive directory listing hidden **Samsung System App Labs**, developer 
 
 > [!NOTE]  
 > This list is actively updated as new One UI versions and methods are discovered.
+>
+> One UI versions that methods are tested on are the minimum One UI version that methods works on. Methods could change for newer versions, or they could remain the same. 
 
 | App | Package Identifier | Version Tested | Access Method / Password |
 | :--- | :--- | :---: | :--- |
@@ -29,7 +31,7 @@ A comprehensive directory listing hidden **Samsung System App Labs**, developer 
 | **[Device Care](https://galaxystore.samsung.com/detail/com.samsung.android.lool)** | `com.samsung.android.lool` | N/A | ❌ None |
 | **[Find My Mobile](https://galaxystore.samsung.com/prepost/000004700911)** | `com.samsung.android.fmm` | One UI 6.1 | **System Settings** → **Apps** → **Samsung app settings** → **Find My Mobile** → `⋮ Menu` → **About Find My Mobile** → Tap 8 times → Enter `fmm@service` in the password field. |
 | **Galaxy Store** | `com.sec.android.app.samsungapps` | One UI 8.0+ | **Menu** → **Settings** → **About Galaxy Store** → Tap Version Number repeatedly.<br/>• **Password format:** `samsungapps` + version code (e.g., `samsungapps7.20.3`)<br/>• **Alternative:** Open `com.samsung.android.mas.internal.ui.DevSettingsPage` via Activity Launcher. |
-| **[Gallery](https://galaxystore.samsung.com/prepost/000007860293)** | `com.sec.android.gallery3d` | One UI 6.1 | `≡ Menu` → **Settings** → **About Gallery** → Tap Gallery version until **Gallery Labs** is enabled. |
+| **[Gallery](https://galaxystore.samsung.com/prepost/000007860293)** | `com.sec.android.gallery3d` | One UI 6.1+ | `≡ Menu` → **Settings** → **About Gallery** → Tap Gallery version until **Gallery Labs** is enabled. |
 | **Good Lock** | `com.samsung.android.goodlock` | One UI 8.5 | ⚠️ In Progress |
 | **[Health](https://galaxystore.samsung.com/prepost/000003059550)** | `com.sec.android.app.shealth` | One UI 6.1 | `⋮ Menu` → **Settings** → **About Samsung Health** → Tap version repeatedly (keep clicking after *Send log report* appears) → Toggle **Developer mode (new)** to **ON**. |
 | **[Internet](https://galaxystore.samsung.com/prepost/000005046627)** | `com.sec.android.apps.sbrowser` | One UI 6.1+ | `≡ Menu` → **Settings** → **Labs** |
